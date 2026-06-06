@@ -409,11 +409,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "hiro.kicad_sch",
+        "name": "hiro",
+        "uuid": "72f108a3-0856-4268-b88d-85a688f606ba"
+      }
+    ],
+    "used_designators": "U1,#PWR1-3,J1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "72f108a3-0856-4268-b88d-85a688f606ba",
+      "hiro"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
