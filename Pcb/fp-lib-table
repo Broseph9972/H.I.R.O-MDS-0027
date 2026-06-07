@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "New_XIAO_Series_Footprints") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/New_XIAO_Series_Footprints") (options "") (descr ""))
 	(lib (name "Libs") (type "KiCad") (uri "${KIPRJMOD}/Libs.pretty") (options "") (descr ""))
+	(lib (name "SideSwitch") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/SideSwitch") (options "") (descr ""))
 )
