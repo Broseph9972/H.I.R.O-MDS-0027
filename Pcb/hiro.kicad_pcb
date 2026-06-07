@@ -941,7 +941,7 @@
 			(at 1.675 -7.725 180)
 			(size 0.7 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "/SD_CS")
+			(net "unconnected-(J1-DAT3{slash}CD-Pad2)")
 			(pinfunction "DAT3/CD_2")
 			(pintype "bidirectional")
 			(uuid "23ec9979-1fa7-460b-ad5a-e7682cdbabd3")
@@ -950,7 +950,7 @@
 			(at 0.575 -7.725 180)
 			(size 0.7 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "/CMD")
+			(net "unconnected-(J1-CMD-Pad3)")
 			(pinfunction "CMD_3")
 			(pintype "input")
 			(uuid "6bfb5cdf-6771-403c-bbe1-9873531e5c20")
@@ -968,7 +968,7 @@
 			(at -1.625 -7.725 180)
 			(size 0.7 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(J1-CLK-Pad5)")
+			(net "/CLK")
 			(pinfunction "CLK_5")
 			(pintype "input")
 			(uuid "aac9684e-8f9f-4525-9f11-cf97dd32797a")
@@ -986,7 +986,7 @@
 			(at -3.825 -7.725 180)
 			(size 0.7 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "/DAT0")
+			(net "unconnected-(J1-DAT0-Pad7)")
 			(pinfunction "DAT0_7")
 			(pintype "bidirectional")
 			(uuid "73c25c00-f7c0-4ed4-8320-f7ade61bddda")
@@ -1206,569 +1206,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3AT-SF-PEJM5.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "Button_Switch_SMD:SW_SPST_B3U-3100P"
-		(layer "F.Cu")
-		(uuid "469e2038-9d48-483f-aaee-938a32a19955")
-		(at 129.58 101.025 -90)
-		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, without Boss")
-		(tags "Tactile Switch")
-		(property "Reference" "S2"
-			(at 0 -3.9 90)
-			(layer "F.SilkS")
-			(uuid "48f97cc4-5dfc-4a50-b6c5-30a50eb6995d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "B3U-3100P-B"
-			(at 0 2.67 90)
-			(layer "F.Fab")
-			(uuid "6828cee3-74b4-4463-b0b3-ea401aecd29e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "036b2033-24e1-45e1-ac5a-0419846b9d16")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "523b1017-6093-47af-9c61-ab0df4dd35d7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" "Omron"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d2230a45-e986-4e3f-bd26-90021662f71a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Package" "Custom Package Omron"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d9d2bda4-a053-4c5f-af29-832adac5460b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e4020526-cd78-4b4c-96fa-ea20eec60b5d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=eda"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "948ed18a-6209-47db-92ef-d713279b9c96")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=snap"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0b4faed1-be55-485a-a9bf-054be8ee5bba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MP" "B3U-3100P-B"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6d29aac6-34ce-4dca-8012-a99e97a328b3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=125576&manufacturer=Omron&part_name=B3U-3100P-B&search_term=side actuated"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d63bf4c-1e8d-4855-a5f7-a66feba2175e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c8e2d1de-6de0-4d5f-8199-f5421f529848")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MANUFACTURER" "Omron"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f65c0b6-00db-464d-9933-13bd90a88116")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/e0c11129-a47a-40b8-9bea-dfea91961b13")
-		(sheetname "/")
-		(sheetfile "hiro.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.65 0.57)
-			(end -0.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cd097738-f300-4836-be29-4df52aeb92f5")
-		)
-		(fp_line
-			(start 1.65 0.57)
-			(end 0.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6fc82436-3887-4825-88ac-ad1b472dad8f")
-		)
-		(fp_line
-			(start 1.65 0.57)
-			(end 1.65 0.28)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6235b67c-344c-4371-8d40-0e7b85bd806f")
-		)
-		(fp_line
-			(start -1.65 0.28)
-			(end -1.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "03f06707-e3c4-4e75-8c7f-113cbcf83d1b")
-		)
-		(fp_line
-			(start -1.65 -1.93)
-			(end -1.65 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "dd24b0b9-318b-462f-a28e-5de506e49441")
-		)
-		(fp_line
-			(start -1.65 -2.22)
-			(end 1.65 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "1d3acb3f-de0f-4a17-a99a-7a683b49531f")
-		)
-		(fp_line
-			(start 1.65 -2.22)
-			(end 1.65 -1.93)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b4ab3391-7775-4aaa-af89-54add24b1adb")
-		)
-		(fp_line
-			(start -1 -2.54)
-			(end -1 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "dd6bf097-557a-401b-8067-1f629f250eb2")
-		)
-		(fp_line
-			(start 1 -2.54)
-			(end 1 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "37bfc398-e042-4a20-abd9-0b0e6f0e6b39")
-		)
-		(fp_line
-			(start -0.5 -2.92)
-			(end -1 -2.54)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "12f73da7-5c8a-49ac-821d-6d3f48d97b14")
-		)
-		(fp_line
-			(start -0.5 -2.92)
-			(end 0.5 -2.92)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6b1e959b-20e1-452b-a0d8-8e1512d90e91")
-		)
-		(fp_line
-			(start 0.5 -2.92)
-			(end 1 -2.54)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8ff8c7fd-b3db-48a2-8bf0-3a1efae7007e")
-		)
-		(fp_line
-			(start -0.65 1.63)
-			(end 0.65 1.63)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "36405395-60b4-42be-b9ab-617a38cec084")
-		)
-		(fp_line
-			(start 0.65 1.63)
-			(end 0.65 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "35aa4664-63a2-4f62-a4c2-c8cf7fc71ee0")
-		)
-		(fp_line
-			(start -2.4 0.82)
-			(end -0.65 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "bd222117-c519-4e34-85eb-bcbd41c67f8d")
-		)
-		(fp_line
-			(start -0.65 0.82)
-			(end -0.65 1.63)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "39389cd4-e685-4bc5-a39a-98133a618802")
-		)
-		(fp_line
-			(start 0.65 0.82)
-			(end 2.4 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7fa19cce-e675-4f95-bd2b-3768d0a5d844")
-		)
-		(fp_line
-			(start 2.4 0.82)
-			(end 2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "04f2a700-7ffe-4bd6-93da-2ef2dc582f3d")
-		)
-		(fp_line
-			(start -2.4 -2.47)
-			(end -2.4 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "f4f8b29f-b662-4257-ae8a-01ae62f8a525")
-		)
-		(fp_line
-			(start -1.25 -2.47)
-			(end -2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "68afdda0-1da5-43c6-b9c5-8398d5be79be")
-		)
-		(fp_line
-			(start -1.25 -2.47)
-			(end -1.25 -3.17)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4f313bb1-6ee0-4716-bfbf-a81507ed93dd")
-		)
-		(fp_line
-			(start 1.25 -2.47)
-			(end 2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "bb217305-0bda-474f-8d07-b612b537fe8f")
-		)
-		(fp_line
-			(start -1.25 -3.17)
-			(end 1.25 -3.17)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1cd8be41-aaf5-4d07-a81a-d303f7ab9da0")
-		)
-		(fp_line
-			(start 1.25 -3.17)
-			(end 1.25 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cc2e9e9c-c600-4825-9892-495e8792a53b")
-		)
-		(fp_line
-			(start -1.5 0.43)
-			(end -1.5 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "518c5f0d-4261-4d1a-a89c-ef12a920b0be")
-		)
-		(fp_line
-			(start 1.5 0.43)
-			(end -1.5 0.43)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "59677f88-5a9e-4f3d-b43a-ccfe2cc779a2")
-		)
-		(fp_line
-			(start -1.5 -2.08)
-			(end 1.5 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1e3d1747-8fca-4901-b30a-fa807037b526")
-		)
-		(fp_line
-			(start -0.85 -2.08)
-			(end -0.85 -2.47)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "01070028-853d-4973-a8c3-6128bad5ebd9")
-		)
-		(fp_line
-			(start 1.5 -2.08)
-			(end 1.5 0.43)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "557109fd-7ec9-4479-9afc-291ea3538bd7")
-		)
-		(fp_line
-			(start -0.85 -2.47)
-			(end -0.45 -2.77)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "cc2570a2-635f-4e74-8e2a-4cdc84b3ba40")
-		)
-		(fp_line
-			(start 0.85 -2.47)
-			(end 0.85 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "415ee729-8aa8-49db-a99f-64d5ab7845b6")
-		)
-		(fp_line
-			(start -0.45 -2.77)
-			(end 0.45 -2.77)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bb549c02-b2fb-4770-92c0-546a6aeafcb0")
-		)
-		(fp_line
-			(start 0.45 -2.77)
-			(end 0.85 -2.47)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8232bdcb-55cd-4105-ad9d-045ac0e17907")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3.9 90)
-			(layer "F.Fab")
-			(uuid "097edf23-9e98-472d-b8e7-eda2e1cd53f3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd rect
-			(at -1.7 -0.82 270)
-			(size 0.9 1.7)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "GND")
-			(pinfunction "1_1")
-			(pintype "passive")
-			(uuid "1d6ad2af-f4b4-420d-afed-e52ce11feb82")
-		)
-		(pad "2" smd rect
-			(at 1.7 -0.82 270)
-			(size 0.9 1.7)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "/SW2")
-			(pinfunction "2_2")
-			(pintype "passive")
-			(uuid "529c684d-7688-48a5-a935-10576031a4e2")
-		)
-		(pad "3" smd rect
-			(at 0 0.82 270)
-			(size 0.8 1.1)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "GND")
-			(pinfunction "3_3")
-			(pintype "passive")
-			(uuid "3cc9bd29-988b-482a-9b6a-b989823e1da6")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3100P.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2343,27 +1780,29 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_SMD:SW_SPST_B3U-3100P"
+	(footprint "Libs:Right angle EC11 Rotary Encoder"
 		(layer "F.Cu")
-		(uuid "8e1ee90d-eddc-4606-bc83-9deade348e45")
-		(at 102.025 81.645)
-		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, without Boss")
-		(tags "Tactile Switch")
-		(property "Reference" "S3"
-			(at 0 -3.9 0)
+		(uuid "86af7426-9e65-4f4a-a09f-5b55f131b5db")
+		(at 130.43 80.82 90)
+		(property "Reference" "SW1"
+			(at 0 -0.5 90)
+			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "1b609f72-860a-4dee-8235-7c5d9fa40e8f")
+			(hide yes)
+			(uuid "7e2dbb5d-56c2-47e0-9e10-cb4cd3b171de")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.1)
 				)
 			)
 		)
-		(property "Value" "B3U-3100P-B"
-			(at 0 2.67 0)
+		(property "Value" "RotaryEncoder_Switch"
+			(at 0 1 90)
+			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "c4e24578-bfc5-4257-adb3-9f47ef4b8e12")
+			(hide yes)
+			(uuid "827ab79c-dc23-48ed-8aa3-0e1baed63cb2")
 			(effects
 				(font
 					(size 1 1)
@@ -2372,37 +1811,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2fdde0d0-145d-40ab-9b87-2841a4f4740c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e8307d96-e213-4c70-9c57-916d7ea8fef8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" "Omron"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e9255764-28b8-4706-948e-48d928fa3c10")
+			(uuid "02232e51-fba3-4d2f-9a3f-9e33e8231c3f")
 			(effects
 				(font
 					(size 1 1)
@@ -2410,12 +1823,12 @@
 				)
 			)
 		)
-		(property "Package" "Custom Package Omron"
-			(at 0 0 0)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a0bebfa-c4a3-43d7-b47b-5b927d3fb2f5")
+			(uuid "b54c99ac-41ca-4fc2-ad4d-7c90c23e5960")
 			(effects
 				(font
 					(size 1 1)
@@ -2423,488 +1836,74 @@
 				)
 			)
 		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "65b9e15f-79b5-4286-bafc-5ae57f698b56")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=eda"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dee82d70-8256-4ce0-ab86-53120c4d056c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=snap"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "af4ccce9-41c4-4cfb-94f1-a9b233fbb5c7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MP" "B3U-3100P-B"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "18f3227f-bf91-4706-8b7a-7026a7d58773")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=125576&manufacturer=Omron&part_name=B3U-3100P-B&search_term=side actuated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cde51c80-1d64-46ab-9304-79d7ffb123a8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4f60c567-0118-479a-a688-fc90e9b1711f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MANUFACTURER" "Omron"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "50cf07f6-d4ad-44b8-bea9-9ec71663ab1b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/1e68bcec-30a0-4995-bb4d-870c5fbd8434")
+		(property ki_fp_filters "RotaryEncoder*Switch*")
+		(path "/856133fc-d6c7-4876-8b6b-2a884fbf8060")
 		(sheetname "/")
 		(sheetfile "hiro.kicad_sch")
 		(units
 			(unit
 				(name "A")
-				(pins "2" "3" "1")
+				(pins "A" "C" "B" "S1" "S2")
 			)
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.65 -2.22)
-			(end 1.65 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "04b66656-2387-4547-bbe2-806dd5b033f8")
-		)
-		(fp_line
-			(start -1.65 -1.93)
-			(end -1.65 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "640aec33-b092-49e0-a69e-3988cbe4180e")
-		)
-		(fp_line
-			(start -1.65 0.28)
-			(end -1.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "2b265580-1e0a-411e-87f6-53e505169daf")
-		)
-		(fp_line
-			(start -1.65 0.57)
-			(end -0.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7a4c82aa-d917-429d-975c-1b797d08d839")
-		)
-		(fp_line
-			(start -1 -2.54)
-			(end -1 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c7e7e104-9a4d-44de-b835-29940bc6f097")
-		)
-		(fp_line
-			(start -0.5 -2.92)
-			(end -1 -2.54)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "34ea0134-c7fc-4016-816b-ac5a83fa88ca")
-		)
-		(fp_line
-			(start -0.5 -2.92)
-			(end 0.5 -2.92)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "2426ef7a-def8-4305-8a9b-82ed480e393c")
-		)
-		(fp_line
-			(start 0.5 -2.92)
-			(end 1 -2.54)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "53996860-ae0b-4b84-8d87-c74842513f09")
-		)
-		(fp_line
-			(start 1 -2.54)
-			(end 1 -2.22)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c5c77dcf-d3ab-4303-9cfc-d808a2b3554e")
-		)
-		(fp_line
-			(start 1.65 -2.22)
-			(end 1.65 -1.93)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "208eb284-4c13-4dfb-a80f-d56940f8586d")
-		)
-		(fp_line
-			(start 1.65 0.57)
-			(end 0.65 0.57)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "310d14d7-c3ea-403c-b709-24406fc74f45")
-		)
-		(fp_line
-			(start 1.65 0.57)
-			(end 1.65 0.28)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "32c88e0b-b5ac-4127-8488-4af4eb5326d1")
-		)
-		(fp_line
-			(start -2.4 -2.47)
-			(end -2.4 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "8fc9d81c-d84f-48f6-b340-bec8ef4ab82b")
-		)
-		(fp_line
-			(start -2.4 0.82)
-			(end -0.65 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "bc02f0eb-e8c7-4541-aeff-ca245a37f1ed")
-		)
-		(fp_line
-			(start -1.25 -3.17)
-			(end 1.25 -3.17)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "350d4b8f-5dcd-4344-a4e3-76a262ada289")
-		)
-		(fp_line
-			(start -1.25 -2.47)
-			(end -2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c74158d7-2164-4101-85b4-98f02714d5ce")
-		)
-		(fp_line
-			(start -1.25 -2.47)
-			(end -1.25 -3.17)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7e457db6-a07b-4c1b-b0ad-30f7720beed9")
-		)
-		(fp_line
-			(start -0.65 0.82)
-			(end -0.65 1.63)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "285e9ab4-2601-4b1f-a24e-cb9a2c48aa79")
-		)
-		(fp_line
-			(start -0.65 1.63)
-			(end 0.65 1.63)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0e18ed17-0ca3-4a67-bfcb-c584536f6c08")
-		)
-		(fp_line
-			(start 0.65 0.82)
-			(end 2.4 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "8cf14115-bb6c-4e55-bc1e-1c40383f9a66")
-		)
-		(fp_line
-			(start 0.65 1.63)
-			(end 0.65 0.82)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "608217a7-fae0-425c-a83b-5e445f1eab06")
-		)
-		(fp_line
-			(start 1.25 -3.17)
-			(end 1.25 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "73996841-269c-4ef6-bc1e-3b53362606d5")
-		)
-		(fp_line
-			(start 1.25 -2.47)
-			(end 2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4961a492-484b-4e74-b225-cf2380c26642")
-		)
-		(fp_line
-			(start 2.4 0.82)
-			(end 2.4 -2.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7c93b190-3a20-4d81-8ede-f4fca01d3cf0")
-		)
-		(fp_line
-			(start -1.5 -2.08)
-			(end 1.5 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "60fc6fdc-e8b7-4258-a2d3-202f27908e00")
-		)
-		(fp_line
-			(start -1.5 0.43)
-			(end -1.5 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "70c22f22-d0b0-4872-ad34-b82094e94c88")
-		)
-		(fp_line
-			(start -0.85 -2.47)
-			(end -0.45 -2.77)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "28fe82f4-4212-4284-86c9-2ba3e9d31548")
-		)
-		(fp_line
-			(start -0.85 -2.08)
-			(end -0.85 -2.47)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bb7b6cfa-8b9a-4e5d-a289-3d37db361cf4")
-		)
-		(fp_line
-			(start -0.45 -2.77)
-			(end 0.45 -2.77)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "458ecee4-80c6-47d0-958f-db71423873f7")
-		)
-		(fp_line
-			(start 0.45 -2.77)
-			(end 0.85 -2.47)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "45ad1ae5-ab6e-4c5c-b07d-4a46948d2eb6")
-		)
-		(fp_line
-			(start 0.85 -2.47)
-			(end 0.85 -2.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "2e197649-959a-45f4-89e9-e020711c9d7a")
-		)
-		(fp_line
-			(start 1.5 -2.08)
-			(end 1.5 0.43)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "92a7ca06-a7fb-4815-b0ca-ae6ced45f4ee")
-		)
-		(fp_line
-			(start 1.5 0.43)
-			(end -1.5 0.43)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "30f50626-8d16-496e-88d4-ab12ce256a76")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3.9 0)
-			(layer "F.Fab")
-			(uuid "831b9375-62fb-418e-b9fb-45157c3b63da")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd rect
-			(at -1.7 -0.82)
-			(size 0.9 1.7)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "GND")
-			(pinfunction "1_1")
+		(pad "A" thru_hole circle
+			(at 0 0 270)
+			(size 2 2)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/ENCA")
+			(pinfunction "A_A")
 			(pintype "passive")
-			(uuid "686a9916-4661-4805-8142-59cfc8fdc395")
+			(uuid "85a0181d-3ca1-4c73-a67f-ba83351992a1")
 		)
-		(pad "2" smd rect
-			(at 1.7 -0.82)
-			(size 0.9 1.7)
-			(layers "F.Cu" "F.Mask" "F.Paste")
+		(pad "B" thru_hole circle
+			(at 2.5 0 90)
+			(size 2 2)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/ENCB")
+			(pinfunction "B_B")
+			(pintype "passive")
+			(uuid "ef9db3d4-af7e-430e-9411-a702a5c1bd88")
+		)
+		(pad "C" thru_hole circle
+			(at 5 0 90)
+			(size 2 2)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GND")
+			(pinfunction "C_C")
+			(pintype "passive")
+			(uuid "d26ff919-0b73-4cdc-a3d9-2f4935b5da40")
+		)
+		(pad "S1" thru_hole circle
+			(at 0 -2.5 90)
+			(size 2 2)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/SW3")
-			(pinfunction "2_2")
+			(pinfunction "S1_S1")
 			(pintype "passive")
-			(uuid "c1e38a66-0145-440f-8403-748f71bc9502")
+			(uuid "88b7991c-2e41-4f69-8a1b-503d41a51595")
 		)
-		(pad "3" smd rect
-			(at 0 0.82)
-			(size 0.8 1.1)
-			(layers "F.Cu" "F.Mask" "F.Paste")
+		(pad "S2" thru_hole circle
+			(at 5 -2.5 90)
+			(size 2 2)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "GND")
-			(pinfunction "3_3")
+			(pinfunction "S2_S2")
 			(pintype "passive")
-			(uuid "fb32951e-038d-453d-a0af-f597111c46b8")
+			(uuid "5d6824db-8843-4246-815e-3287fc575145")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3100P.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -12168,7 +11167,7 @@
 			(size 2.032 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.1)
-			(net "/SD_CS")
+			(net "/ENCA")
 			(pinfunction "GPIO1_A0_D0_1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -12179,7 +11178,7 @@
 			(size 2.032 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.1)
-			(net "/CMD")
+			(net "/ENCB")
 			(pinfunction "GPIO2_A1_D1_2")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -12190,7 +11189,7 @@
 			(size 2.032 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.1)
-			(net "/CLK")
+			(net "unconnected-(U1-GPIO3_A2_D2-Pad3)")
 			(pinfunction "GPIO3_A2_D2_3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -12402,7 +11401,7 @@
 			(roundrect_rratio 0.1)
 			(chamfer_ratio 0.35)
 			(chamfer top_left bottom_left)
-			(net "/RST")
+			(net "/MOSI")
 			(pinfunction "GPIO11_DVP_Y8_SPI_MOSI1_21")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -12415,7 +11414,7 @@
 			(roundrect_rratio 0.1)
 			(chamfer_ratio 0.35)
 			(chamfer top_left bottom_left)
-			(net "/BL")
+			(net "/MISO")
 			(pinfunction "GPIO12_DVP_Y7_SPI_MISO1_22")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
@@ -13538,6 +12537,569 @@
 			)
 		)
 	)
+	(footprint "Button_Switch_SMD:SW_SPST_B3U-3100P"
+		(layer "F.Cu")
+		(uuid "fb0a3d73-f350-4a93-a74d-8d842794888c")
+		(at 129.48 101.16 -90)
+		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, without Boss")
+		(tags "Tactile Switch")
+		(property "Reference" "S2"
+			(at 0 -3.9 90)
+			(layer "F.SilkS")
+			(uuid "a1bd650a-84e5-426b-bb5b-49d8a98b5f28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "B3U-3100P-B"
+			(at 0 2.67 90)
+			(layer "F.Fab")
+			(uuid "25596baa-c8a9-439f-a35f-0434a1c3137c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a26618d6-abc8-4e51-a026-e10e1d715596")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30a86b04-901b-4641-a28f-393d6db5861c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MF" "Omron"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cef57d13-8e7e-4903-8825-42fd754c76a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "Custom Package Omron"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cc21177-7fa9-4392-839f-8874deaa2713")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e267d69-acf9-4e54-a84b-b17606f91cb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=eda"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b400edaa-2651-41a1-bafc-848e8695e4df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3100P-B/Omron/view-part/?ref=snap"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "edce1ef0-9034-4ca8-8d5d-f61205285514")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "B3U-3100P-B"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f22594d-71c6-4081-808b-88a6684d51bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=125576&manufacturer=Omron&part_name=B3U-3100P-B&search_term=side actuated"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd22d66f-7be1-47fc-b60c-fe9016a5614a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "afd33a88-f370-4148-88d0-d54364d14ca9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Omron"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74a663ff-66ed-415f-a6f8-eaa111e73015")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/1e68bcec-30a0-4995-bb4d-870c5fbd8434")
+		(sheetname "/")
+		(sheetfile "hiro.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -1.65 0.57)
+			(end -0.65 0.57)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "50093af9-4a5e-40d5-afc6-e7d63fa05cff")
+		)
+		(fp_line
+			(start 1.65 0.57)
+			(end 0.65 0.57)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "69a8c585-ab2b-4f97-a8fb-56c5c5c57231")
+		)
+		(fp_line
+			(start 1.65 0.57)
+			(end 1.65 0.28)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "154c6dab-b587-4d2e-8a80-0fc891009ad2")
+		)
+		(fp_line
+			(start -1.65 0.28)
+			(end -1.65 0.57)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e2595c41-c1d9-4da7-9489-c2c426f449aa")
+		)
+		(fp_line
+			(start -1.65 -1.93)
+			(end -1.65 -2.22)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "457e033c-2372-47cd-a967-743726e1a98c")
+		)
+		(fp_line
+			(start -1.65 -2.22)
+			(end 1.65 -2.22)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3c23ef2a-0a73-4bac-bb8a-45ede1de0a92")
+		)
+		(fp_line
+			(start 1.65 -2.22)
+			(end 1.65 -1.93)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "70527b17-1ee6-43c3-beea-f8d6a0d126f1")
+		)
+		(fp_line
+			(start -1 -2.54)
+			(end -1 -2.22)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f5d65d2d-3e57-4a48-8738-ac30c858efe9")
+		)
+		(fp_line
+			(start 1 -2.54)
+			(end 1 -2.22)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cbc90b51-2370-4304-ba42-862363074222")
+		)
+		(fp_line
+			(start -0.5 -2.92)
+			(end -1 -2.54)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6861176a-b145-4cf0-8bf3-ae5ba71a6987")
+		)
+		(fp_line
+			(start -0.5 -2.92)
+			(end 0.5 -2.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c7815736-174b-40c7-8cc6-32667a630513")
+		)
+		(fp_line
+			(start 0.5 -2.92)
+			(end 1 -2.54)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e2186a81-14ce-4999-aeb4-a23d367cf78a")
+		)
+		(fp_line
+			(start -0.65 1.63)
+			(end 0.65 1.63)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2e2190c6-4552-4fac-90c0-379693271705")
+		)
+		(fp_line
+			(start 0.65 1.63)
+			(end 0.65 0.82)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e6b080b1-2a63-4fdc-b202-bf644a969856")
+		)
+		(fp_line
+			(start -2.4 0.82)
+			(end -0.65 0.82)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "503882f8-fbf5-4dc8-80ae-4eac5c44327f")
+		)
+		(fp_line
+			(start -0.65 0.82)
+			(end -0.65 1.63)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e284213f-d9c7-4df8-812a-b4e7a5853145")
+		)
+		(fp_line
+			(start 0.65 0.82)
+			(end 2.4 0.82)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "43208eb8-c2c2-4742-8f45-a397581db73e")
+		)
+		(fp_line
+			(start 2.4 0.82)
+			(end 2.4 -2.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "060c3328-5759-4879-96cf-20a88a32ce6a")
+		)
+		(fp_line
+			(start -2.4 -2.47)
+			(end -2.4 0.82)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "52b2033e-9a83-4d7d-ba27-39f8fd160e49")
+		)
+		(fp_line
+			(start -1.25 -2.47)
+			(end -2.4 -2.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "82f11897-f145-4a9b-955e-9ee3729a407d")
+		)
+		(fp_line
+			(start -1.25 -2.47)
+			(end -1.25 -3.17)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "fa321205-7bf8-4abb-af18-5d3ba6fbe2f0")
+		)
+		(fp_line
+			(start 1.25 -2.47)
+			(end 2.4 -2.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "fc7a6fb3-9f90-42c4-a390-533917c6bc9e")
+		)
+		(fp_line
+			(start -1.25 -3.17)
+			(end 1.25 -3.17)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "bfd0a238-abd8-40ed-84c9-0ec46aea02e1")
+		)
+		(fp_line
+			(start 1.25 -3.17)
+			(end 1.25 -2.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "04a4fb40-8f90-4850-a4d4-439850a8ea56")
+		)
+		(fp_line
+			(start -1.5 0.43)
+			(end -1.5 -2.08)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d8b4ca5c-d34d-40d2-9d48-d4266612c5ae")
+		)
+		(fp_line
+			(start 1.5 0.43)
+			(end -1.5 0.43)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9d8a6969-374e-4b0b-bd79-5351b239bf70")
+		)
+		(fp_line
+			(start -1.5 -2.08)
+			(end 1.5 -2.08)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "60d16cc9-acd5-4aa5-8692-675f7c74bd83")
+		)
+		(fp_line
+			(start -0.85 -2.08)
+			(end -0.85 -2.47)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2f9fb457-f113-41a1-9aa5-189c36bece5b")
+		)
+		(fp_line
+			(start 1.5 -2.08)
+			(end 1.5 0.43)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "33ffca15-8b1b-4a0e-b81a-506e32723fac")
+		)
+		(fp_line
+			(start -0.85 -2.47)
+			(end -0.45 -2.77)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9679f129-208f-4f29-9728-f72b7be2897f")
+		)
+		(fp_line
+			(start 0.85 -2.47)
+			(end 0.85 -2.08)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1647e296-cab5-483f-9d76-b517df327c7a")
+		)
+		(fp_line
+			(start -0.45 -2.77)
+			(end 0.45 -2.77)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "643ff7b8-9a32-4286-bc56-134740b3f3ce")
+		)
+		(fp_line
+			(start 0.45 -2.77)
+			(end 0.85 -2.47)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b29c3ed1-18bd-4fdf-a6b4-18cbbb8f769e")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -3.9 90)
+			(layer "F.Fab")
+			(uuid "2c33effb-589b-48be-8b9f-122548242409")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -1.7 -0.82 270)
+			(size 0.9 1.7)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "1_1")
+			(pintype "passive")
+			(uuid "80639bd3-d9c2-412f-8dfc-7e13ccc0cf80")
+		)
+		(pad "2" smd rect
+			(at 1.7 -0.82 270)
+			(size 0.9 1.7)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "/SW2")
+			(pinfunction "2_2")
+			(pintype "passive")
+			(uuid "6c7f1300-93b2-4b9b-a0b5-45b92746ad8d")
+		)
+		(pad "3" smd rect
+			(at 0 0.82 270)
+			(size 0.8 1.1)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "3_3")
+			(pintype "passive")
+			(uuid "885871f7-cde4-4db2-bf85-7c96e0945f2f")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3100P.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "fdfab256-1a9a-4ee6-908d-e5ac1971724a")
@@ -13816,7 +13378,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/RST")
+			(net "/MOSI")
 			(pinfunction "Pin_7_7")
 			(pintype "passive")
 			(uuid "c4dd67fd-6cfc-4a5a-ac78-c8fbaeb34703")
@@ -13827,7 +13389,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/BL")
+			(net "/MISO")
 			(pinfunction "Pin_8_8")
 			(pintype "passive")
 			(uuid "0c396529-ffac-4b50-a0ce-32e90c0df351")
