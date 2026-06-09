@@ -2,5 +2,5 @@
 	(version 7)
 	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/XIAO_Series_SCH_Symbols/XIAO_Series_SCH_Symbols/Seeed_Studio_XIAO_Series.kicad_sym") (options "") (descr ""))
 	(lib (name "B3U-3100P-B") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/SideSwitch/B3U-3100P-B.kicad_sym") (options "") (descr ""))
-	(lib (name "CVS-3108") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/Spkr/CVS-3108.kicad_sym") (options "") (descr ""))
+	(lib (name "CVS-1708") (type "KiCad") (uri "C:/Users/brose/OneDrive/Documents/GitHub/H.I.R.O-MDS-0027/Libs/Spkr/CVS-1708.kicad_sym") (options "") (descr ""))
 )
