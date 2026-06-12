@@ -9,7 +9,6 @@ I've always loved good kid, and i was bored at night watching some of their musi
 I cant explain how to use it yet, as i have not built it yet, but it should go something like select a song or playlist, and itll play said song or playlist. (duh)
 This is my first project where i'm not very concerned about budget, as it isnt completely practical, it just needs to look as close as possible to the original. I did get rid of the arms and legs because it would make it annoying to use imho.
 
----
 
 #Assembly
 
