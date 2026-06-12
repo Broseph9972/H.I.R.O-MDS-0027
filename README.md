@@ -10,7 +10,9 @@ I cant explain how to use it yet, as i have not built it yet, but it should go s
 This is my first project where i'm not very concerned about budget, as it isnt completely practical, it just needs to look as close as possible to the original. I did get rid of the arms and legs because it would make it annoying to use imho.
 
 ---
+
 #Assembly
+
 ##Read through this before starting just for understanding.
 
   1. Solder Parts Onto the PCB. As there are many SMD Components and small capacitors, reflow soldering is recommended. Use long header pins for the screen DO NOT SOLDER THE SCREEN TO THE PCB YET.
