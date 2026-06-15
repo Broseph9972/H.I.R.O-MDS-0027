@@ -10,9 +10,9 @@ I cant explain how to use it yet, as i have not built it yet, but it should go s
 This is my first project where i'm not very concerned about budget, as it isnt completely practical, it just needs to look as close as possible to the original. I did get rid of the arms and legs because it would make it annoying to use imho.
 
 
-#Assembly
+# Assembly
 
-##Read through this before starting just for understanding.
+## Read through this before starting just for understanding.
 
   1. Solder Parts Onto the PCB. As there are many SMD Components and small capacitors, reflow soldering is recommended. Use long header pins for the screen DO NOT SOLDER THE SCREEN TO THE PCB YET.
   2. If any Through Hole parts poke into the case, like the speaker, use pliers or something to take them off. there should be indents in the case for them though.
@@ -24,7 +24,7 @@ This is my first project where i'm not very concerned about budget, as it isnt c
   8. If joe made a propeller thingy put that here
   9. Place the Lid on Top, Turn the main casing over, and screw in 3 M3x14 Screws.
   10. (Optional) Paint it! it looks so much cooler Painted. I highly reccomend this.
-#Setup
+# Setup
   1. Flash the Firmware for the MP3 Player (joe show how to do that later)
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
   3. Play your Music!
