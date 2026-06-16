@@ -39,7 +39,8 @@ the H.I.R.O. uses
 - A Really fancy MicroSD card slot
 - M3 Screws
 - Battery
-- 3d Printed enclosure (my first really good cad design
+- 3d Printed enclosure (my first really good cad design)
 - A cusom PCB to hold all components.
 - Some paint (optional)
+
 [^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ)
