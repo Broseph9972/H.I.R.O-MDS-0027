@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/d8cce7da-2541-4a06-ba8f-5a0993665533
 | Resistor 1MΩ 0603 | 1 | R1 | $0.01 | 1% tolerance preferred. Order from LCSC. | [Link](https://www.lcsc.com/search?q=1M+0603+resistor) |
 | Waveshare 2.4in LCD Module | 1 | — | $18.99 | 240×320 SPI (ILI9341). Connects to J3 header. Closest size match to original H.I.R.O screen. | [Link](https://www.amazon.com/Waveshare-2-4inch-Display-Resolution-Interface/dp/B08H24H7KX) |
 | LiPo Battery 3.7V | 1 | — | $9.99 | Any single-cell LiPo with JST PH 2.0mm connector. Slides under screen in case. 500mAh+ recommended. | [Link](https://www.amazon.com/Battery-Rechargeable-Lithium-Polymer-Connector/dp/B07S84SBV3) |
-| M3×14 Socket Head Cap Screws | 7 | — | $6.99 | 4× screen brackets + 3× lid. Stainless steel A2. | [Link](https://a.co/d/06cvdCqz) |
+| M3×14 Socket Head Cap Screws | 7 | — | $6.99 | 4× screen brackets + 3× lid. Stainless steel A2. | [Link](https://a.co/d/00dNH8NP) |
 | 3D Printed Main Casing | 1 | — | $0.10 | Print from Cad/ directory. Sand if needed for PCB fit (see assembly notes). | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Cad) |
 | 3D Printed Lid | 1 | — | $0.10 | Print from Cad/ directory. 3× M3×14 screw holes. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Cad) |
 | Custom PCB (H.I.R.O) | 1 | — | $6.00 | Fabricate from Pcb/ gerbers. JLCPCB / PCBWay / OSH Park. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Pcb) |
