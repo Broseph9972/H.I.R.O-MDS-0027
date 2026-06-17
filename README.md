@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/d8cce7da-2541-4a06-ba8f-5a0993665533
 | M3×14 Socket Head Cap Screws | 7 | — | $6.99 | 4× screen brackets + 3× lid. Stainless steel A2. | [Link](https://a.co/d/00dNH8NP) |
 | 3D Printed Main Casing | 1 | — | $0.10 | Print from Cad/ directory. Sand if needed for PCB fit (see assembly notes). | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Cad) |
 | 3D Printed Lid | 1 | — | $0.10 | Print from Cad/ directory. 3× M3×14 screw holes. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Cad) |
-| Custom PCB (H.I.R.O) | 1 | — | $6.00 | Fabricate from Pcb/ gerbers. JLCPCB / PCBWay / OSH Park. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Pcb) |
+| Custom PCB (H.I.R.O) | 1 | — | $7.50 | Fabricate from Pcb/ gerbers. JLCPCB / PCBWay / OSH Park. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Pcb) |
 | Paint (optional) | 1 | — | $0 | Spray paint or acrylic. | — |
 
 [^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ) 
