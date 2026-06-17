@@ -1,5 +1,5 @@
 # H.I.R.O-MDS-0027
-a music video faithful mp3 player based on the H.I.R.O from good kid Music videos. built for Hack club fallout in about (time) weeks.
+a music video faithful mp3 player based on the H.I.R.O from good kid Music videos. built for Hack club fallout in about 2 weeks.
 ---
 <p align="center">
 <img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/7f929a32-c703-42aa-b72f-917fcbccfb31" />
