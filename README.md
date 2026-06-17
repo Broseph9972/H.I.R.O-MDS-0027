@@ -3,6 +3,7 @@ a music video faithful mp3 player based on the H.I.R.O from good kid Music video
 ---
 <p align="center">
 <img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/7f929a32-c703-42aa-b72f-917fcbccfb31" />
+<img width="585" height="780" alt="image" src="https://github.com/user-attachments/assets/95b70bfb-2dd5-4de5-b6da-58a889d61db2" />
 </p>
 
 I unironically listened to almost exclusively good kid while making this project.
