@@ -29,11 +29,14 @@ This is my first project where i'm not very concerned about budget, as it isnt c
   9. Place the Lid on Top, Turn the main casing over, and screw in 3 M3x14 Screws.
   10. (Optional) Paint it! it looks so much cooler Painted. I highly reccomend this.
 # Setup
-  1. Flash the Firmware for the MP3 Player (joe show how to do that later)
+  1. Flash the Firmware for the MP3 Using arduino IDE or whichever ide you prefer
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
   3. Play your Music!
 
-add render later from fusion.
+<img width="346" height="328" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
+<img width="538" height="512" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
+<img width="840" height="730" alt="image" src="https://github.com/user-attachments/assets/7827c1a9-077a-45b3-a236-c7bfe48a18dc" />
+
 
 # Bill of Materials
 
