@@ -28,6 +28,10 @@ This is my first project where i'm not very concerned about budget, as it isnt c
   8. If joe made a propeller thingy put that here
   9. Place the Lid on Top, Turn the main casing over, and screw in 3 M3x14 Screws.
   10. (Optional) Paint it! it looks so much cooler Painted. I highly reccomend this.
+
+### Assembly Video (its really bad)
+https://github.com/user-attachments/assets/d8cce7da-2541-4a06-ba8f-5a0993665533
+
 # Setup
   1. Flash the Firmware for the MP3 Using arduino IDE or whichever ide you prefer
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
@@ -65,4 +69,4 @@ This is my first project where i'm not very concerned about budget, as it isnt c
 | Custom PCB (H.I.R.O) | 1 | — | $6.00 | Fabricate from Pcb/ gerbers. JLCPCB / PCBWay / OSH Park. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Pcb) |
 | Paint (optional) | 1 | — | $0 | Spray paint or acrylic. | — |
 
-[^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ)
+[^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ) 
