@@ -33,9 +33,11 @@ This is my first project where i'm not very concerned about budget, as it isnt c
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
   3. Play your Music!
 
-<img width="346" height="328" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
-<img width="538" height="512" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
-<img width="840" height="730" alt="image" src="https://github.com/user-attachments/assets/7827c1a9-077a-45b3-a236-c7bfe48a18dc" />
+<p align="center">
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/7827c1a9-077a-45b3-a236-c7bfe48a18dc" />
+</p>
 
 
 # Bill of Materials
