@@ -36,6 +36,7 @@ The H.I.R.O has 3 inputs.
 1. Button 1
 2. Button 2
 3. Clicky Knob
+
 Spin the knob to cycle through the options on the screen. Click the knob to select.
 Button 1 is for skipping to the next song. Hold to skip past 10s at a time in a specific song.
 Button 2 is for rewinding. Click once to go to the last song. click twice to restart the song. Hold to go back 10s at a time in the song. 
