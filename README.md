@@ -31,6 +31,14 @@ This is my first project where i'm not very concerned about budget, as it isnt c
 ### Assembly Video (its really bad)
 https://github.com/user-attachments/assets/d8cce7da-2541-4a06-ba8f-5a0993665533
 
+# Usage
+The H.I.R.O has 3 inputs.
+1. Button 1
+2. Button 2
+3. Clicky Knob
+Spin the knob to cycle through the options on the screen. Click the knob to select.
+Button 1 is for skipping to the next song. Hold to skip past 10s at a time in a specific song.
+Button 2 is for rewinding. Click once to go to the last song. click twice to restart the song. Hold to go back 10s at a time in the song. 
 # Setup
   1. Flash the Firmware for the MP3 Using arduino IDE or whichever ide you prefer
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
