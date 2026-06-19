@@ -24,10 +24,9 @@ This is my first project where i'm not very concerned about budget, as it isnt c
   4. Screw In the screen to the 4 square brackets on the main casing with M3x14 Screws.
   5. Solder the Screen Connector pins to the screen. (if gpio are short, im so sorry but i would just desolder and use jumper wires.)
   6. Plug in the battery to the JST Connector. Slide it wherever it fits, i reccomend under the screen. any lipo battery should work.
-  7. Joe when you figure out how buttons work, do button assembly here
-  8. If joe made a propeller thingy put that here
-  9. Place the Lid on Top, Turn the main casing over, and screw in 3 M3x14 Screws.
-  10. (Optional) Paint it! it looks so much cooler Painted. I highly reccomend this.
+  7. (vid isnt accurate) Slide the buttons into place so that the lip dosent allow it to get pushed out.
+  8. Place the Lid on Top, Turn the main casing over, and screw in 3 M3x14 Screws.
+  9. (Optional) Paint it! it looks so much cooler Painted. I highly reccomend this.
 
 ### Assembly Video (its really bad)
 https://github.com/user-attachments/assets/d8cce7da-2541-4a06-ba8f-5a0993665533
