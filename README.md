@@ -77,5 +77,6 @@ Button 2 is for rewinding. Click once to go to the last song. click twice to res
 | 3D Printed Lid | 1 | — | $0.10 | Print from Cad/ directory. 3× M3×14 screw holes. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Cad) |
 | Custom PCB (H.I.R.O) | 1 | — | $7.50 | Fabricate from Pcb/ gerbers. JLCPCB / PCBWay / OSH Park. | [Link](https://github.com/Broseph9972/H.I.R.O-MDS-0027/tree/main/Pcb) |
 | Paint (optional) | 1 | — | $0 | Spray paint or acrylic. | — |
+| **TOTAL** | — | — | **$75.38** | Qty × unit price across all lines (screws/header counted as pack price; optional paint at $0). | — |
 
 [^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ) 
