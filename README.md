@@ -46,6 +46,8 @@ Button 2 is for rewinding. Click once to go to the last song. click twice to res
   2. Insert MicroSD Card With Music on it in Mp3 (or FLAC?) Format.
   3. Play your Music!
 
+## Warning:
+Theres a bug where the lid has a huge object inside it when 3d printing, just delete it in your slicer. i dunno why this happens.
 <p align="center">
   <img width="220" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
   <img width="220" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
