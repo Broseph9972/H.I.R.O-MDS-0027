@@ -5,6 +5,11 @@ a music video faithful mp3 player based on the H.I.R.O from good kid Music video
 <img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/7f929a32-c703-42aa-b72f-917fcbccfb31" />
 <img width="585" height="780" alt="image" src="https://github.com/user-attachments/assets/95b70bfb-2dd5-4de5-b6da-58a889d61db2" />
 </p>
+<p align="center">
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/7827c1a9-077a-45b3-a236-c7bfe48a18dc" />
+</p>
 
 I unironically listened to almost exclusively good kid while making this project.
 
@@ -48,12 +53,6 @@ Button 2 is for rewinding. Click once to go to the last song. click twice to res
 
 ## Warning:
 Theres a bug where the lid has a huge object inside it when 3d printing, just delete it in your slicer. i dunno why this happens.
-<p align="center">
-  <img width="220" alt="image" src="https://github.com/user-attachments/assets/07dba6d8-bd7b-4430-a1e3-d626a203aa2f" />
-  <img width="220" alt="image" src="https://github.com/user-attachments/assets/46cd8b47-4472-474c-b198-8e87837316af" />
-  <img width="220" alt="image" src="https://github.com/user-attachments/assets/7827c1a9-077a-45b3-a236-c7bfe48a18dc" />
-</p>
-
 
 # Bill of Materials
 
