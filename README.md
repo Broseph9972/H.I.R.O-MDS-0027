@@ -17,7 +17,6 @@ I unironically listened to almost exclusively good kid while making this project
 ## Why?
 I've always loved good kid, and i was bored at night watching some of their music videos, and saw a scene of the H.I.R.O taken apart with a soldering iron,[^1] and realised, i could probably make that.
 I cant explain how to use it yet, as i have not built it yet, but it should go something like select a song or playlist, and itll play said song or playlist. (duh)
-I got most of my reference images from Wall[^2] and MDS[^3]
 This is my first project where i'm not very concerned about budget, as it isnt completely practical, it just needs to look as close as possible to the original. I did get rid of the arms and legs because it would make it annoying to use imho.
 
 
@@ -81,4 +80,4 @@ Theres a bug where the lid has a huge object inside it when 3d printing, just de
 | Paint (optional) | 1 | — | $0 | Spray paint or acrylic. | — |
 | **TOTAL** | — | — | **$75.38** | Qty × unit price across all lines (screws/header counted as pack price; optional paint at $0). | — |
 
-[^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ) [^2]:[Wall](https://www.youtube.com/watch?v=HG8WEN3SKVk) [^3]:[Mimis Delivery Service](https://www.youtube.com/watch?v=hYUvI5Njbbk)
+[^1]:From [Eastside](https://www.youtube.com/watch?v=-kVTMlbAywQ) [Wall](https://www.youtube.com/watch?v=HG8WEN3SKVk)[Mimis Delivery Service](https://www.youtube.com/watch?v=hYUvI5Njbbk)
