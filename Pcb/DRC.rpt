@@ -1,0 +1,122 @@
+** Drc report for hiro.kicad_pcb **
+** Created on 2026-08-05T11:41:01 **
+** Report includes: Errors **
+
+** Found 26 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(124.2350 mm, 132.3838 mm): Track [/DIN1] on F.Cu, length 12.6488 mm
+    @(133.6420 mm, 133.5111 mm): Pad 30 [unconnected-(U1-GPIO19_ESP_USB_D--Pad30)] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1971 mm)
+    Local override; error
+    @(140.6270 mm, 137.5751 mm): Pad 2 [/ENCB] of U1 on F.Cu
+    @(136.5828 mm, 139.7638 mm): Track [/BCK] on F.Cu, length 4.8592 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1840 mm)
+    Local override; error
+    @(113.1250 mm, 136.2750 mm): Track [GND] on F.Cu, length 0.7000 mm
+    @(112.1035 mm, 135.9023 mm): Pad 2 [Net-(U2-CAPP)] of U2 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1840 mm)
+    Local override; error
+    @(125.4170 mm, 134.5116 mm): Track [GND] on F.Cu, length 1.7702 mm
+    @(124.1170 mm, 135.0351 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1746 mm)
+    Local override; error
+    @(113.5250 mm, 135.4065 mm): Track [Net-(U2-OUTL)] on F.Cu, length 10.1916 mm
+    @(112.1035 mm, 135.2523 mm): Pad 1 [GND] of U2 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1840 mm)
+    Local override; error
+    @(140.6270 mm, 124.8751 mm): Pad 7 [unconnected-(U1-GPIO43_D6_TX-Pad7)] of U1 on F.Cu
+    @(141.9270 mm, 121.4270 mm): Track [/LCD_BL] on F.Cu, length 5.7108 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(123.1453 mm, 134.2828 mm): Track [GND] on F.Cu, length 2.0429 mm
+    @(124.1170 mm, 135.0351 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(151.2710 mm, 52.7673 mm): Pad 4 [+3.3V] of J1 on F.Cu
+    @(147.3050 mm, 51.8900 mm): Track [GND] on F.Cu, length 6.0500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1807 mm)
+    Local override; error
+    @(122.0000 mm, 133.1375 mm): Track [GND] on F.Cu, length 1.6197 mm
+    @(124.1170 mm, 135.0351 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1745 mm)
+    Local override; error
+    @(125.1883 mm, 134.2828 mm): Track [GND] on F.Cu, length 0.3235 mm
+    @(124.1170 mm, 135.0351 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1786 mm)
+    Local override; error
+    @(110.8792 mm, 139.1750 mm): Track [Net-(U2-OUTR)] on F.Cu, length 1.2083 mm
+    @(110.2410 mm, 139.8023 mm): Pad 2 [Net-(U2-AVDD)] of C2 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1786 mm)
+    Local override; error
+    @(110.2410 mm, 139.8023 mm): Pad 2 [Net-(U2-AVDD)] of C2 on F.Cu
+    @(110.4459 mm, 138.7417 mm): Track [Net-(U2-OUTR)] on F.Cu, length 0.6127 mm
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.2273 mm)
+    Rule: board setup constraints hole; error
+    @(98.6000 mm, 135.3000 mm): Track [Net-(U2-OUTR)] on F.Cu, length 8.6792 mm
+    @(102.0160 mm, 136.4773 mm): NPTH pad of J2
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1971 mm)
+    Local override; error
+    @(136.3428 mm, 137.4638 mm): Track [/LCK] on F.Cu, length 5.1986 mm
+    @(140.6270 mm, 135.0351 mm): Pad 3 [/SW1] of U1 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(108.5160 mm, 137.8023 mm): Pad 2 [GND] of C6 on F.Cu
+    @(107.2792 mm, 135.3000 mm): Track [Net-(U2-OUTR)] on F.Cu, length 2.9816 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1953 mm)
+    Local override; error
+    @(165.2049 mm, 91.1980 mm): Track [/ENCB] on B.Cu, length 2.7740 mm
+    @(166.5209 mm, 91.7138 mm): PTH pad S1 [/SW3] of SW1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(133.6420 mm, 138.5911 mm): Pad 26 [unconnected-(U1-EN-Pad26)] of U1 on F.Cu
+    @(127.0362 mm, 137.4638 mm): Track [/LCK] on F.Cu, length 9.3066 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1773 mm)
+    Local override; error
+    @(119.1372 mm, 139.3628 mm): Track [/BCK] on F.Cu, length 11.0715 mm
+    @(124.1170 mm, 140.1151 mm): Pad 14 [unconnected-(U1-VBUS-Pad14)] of U1 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4840 mm)
+    Rule: board setup constraints edge; error
+    @(170.5049 mm, 85.0907 mm): Segment on Edge.Cuts
+    @(169.0209 mm, 91.7138 mm): PTH pad A [/ENCA] of SW1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4840 mm)
+    Rule: board setup constraints edge; error
+    @(170.5049 mm, 85.0907 mm): Segment on Edge.Cuts
+    @(169.0209 mm, 89.2138 mm): PTH pad B [/ENCB] of SW1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4840 mm)
+    Rule: board setup constraints edge; error
+    @(170.5049 mm, 85.0907 mm): Segment on Edge.Cuts
+    @(169.0209 mm, 86.7138 mm): PTH pad C [GND] of SW1
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(94.9660 mm, 40.0773 mm): Circle on Edge.Cuts
+    @(94.9500 mm, 40.1000 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(94.9660 mm, 138.1600 mm): Circle on Edge.Cuts
+    @(94.9500 mm, 138.1827 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(166.0209 mm, 40.0773 mm): Circle on Edge.Cuts
+    @(166.0049 mm, 40.1000 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(94.9660 mm, 138.1599 mm): Arc on Edge.Cuts
+    @(94.9500 mm, 142.6827 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(154.9999 mm, 138.1599 mm): Arc on Edge.Cuts
+    @(94.9500 mm, 142.6827 mm): Segment on Edge.Cuts
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
