@@ -2,7 +2,8 @@
 a music video faithful mp3 player based on the H.I.R.O from good kid Music videos. built for Hack club fallout in about 2 weeks. My favorite Hardware project yet
 ---
 <p align="center">
-<img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/7f929a32-c703-42aa-b72f-917fcbccfb31" />
+<img width="420" height="595" alt="NewHiroZine" src="https://github.com/user-attachments/assets/0d57fea9-b7ff-406d-84a2-5c4e0c795bae" />
+
 <img width="585" height="780" alt="image" src="https://github.com/user-attachments/assets/95b70bfb-2dd5-4de5-b6da-58a889d61db2" />
 </p>
 <p align="center">
